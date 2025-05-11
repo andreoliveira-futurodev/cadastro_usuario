@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(249, 236, 221);
+  font-family: Arial, sans-serif;
+  margin: 50px;
+}
+
+form label {
+  display: block;
+  margin: 10px 0;
+}
+
+input {
+  padding: 5px;
+  width: 300px;
+  max-width: 100%;
+}
+
+button {
+  padding: 8px 16px;
+  margin-top: 10px;
+  background-color: #4CAF50;
+  color: rgb(255, 255, 255);
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #aa2323;
+}
